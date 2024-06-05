@@ -33,7 +33,7 @@ cd background-generator
 npm install
 
 # Usage
-- -Run the application:
+- Run the application:
 npm start
 - Open your web browser and go to http://localhost:3000.
 -Select colors for the gradient using the color pickers
