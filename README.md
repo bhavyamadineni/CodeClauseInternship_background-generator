@@ -44,10 +44,10 @@ npm start
 ## About React
 React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components, manage application state efficiently, and render updates in response to data changes. React's component-based architecture makes it easier to build and maintain complex web applications.
 
-License
+##License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+##Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
 ## Acknowledgements
