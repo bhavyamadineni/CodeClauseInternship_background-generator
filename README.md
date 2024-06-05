@@ -1,7 +1,5 @@
 # CodeClauseInternship_background-generator
 
-markdown
-Copy code
 # Background Generator
 
 ## Overview
@@ -26,7 +24,7 @@ Background Generator is a web application designed to create visually appealing 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/background-generator.git
+   git clone https://github.com/bhavyamadineni/CodeClauseInternship_background-generator.git
    
 ## Navigate to the project directory:
 cd background-generator
