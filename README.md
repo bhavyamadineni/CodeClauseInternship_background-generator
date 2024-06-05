@@ -33,13 +33,13 @@ cd background-generator
 npm install
 
 # Usage
--Run the application:
+- -Run the application:
 npm start
--Open your web browser and go to http://localhost:3000.
--Select colors for the gradient using the color pickers.
--Choose between Linear and Radial gradients.
--Click on the preview box to generate the gradient.
--Click the "Download" button below the preview to save the generated background image.
+- Open your web browser and go to http://localhost:3000.
+-Select colors for the gradient using the color pickers
+- Choose between Linear and Radial gradients.
+- Click on the preview box to generate the gradient.
+- Click the "Download" button below the preview to save the generated background image.
 
 ## About React
 React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components, manage application state efficiently, and render updates in response to data changes. React's component-based architecture makes it easier to build and maintain complex web applications.
